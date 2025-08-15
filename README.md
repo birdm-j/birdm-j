@@ -14,7 +14,7 @@
 - [ ] Domain join.
 - [ ] Decline all intrusive privacy-related options (cloud/local) — tip, use oobe\bypassnro.
 - [ ] Mirror password and PIN (x/y/z).
-- [ ] Continue procedures while offline unless required.
+- [ ] Continue procedures while offline unless required like from Microsoft Activation Scripts (MAS).
 - [ ] Configure Windows features such as TPM and Secure Boot.
 - [ ] Run O&O Frida (or a similar privacy tool).
 - [ ] Edit disk cleanup.
