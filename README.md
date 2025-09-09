@@ -33,14 +33,14 @@
 - [ ] Defragment settings for HDDs (skip SSDs and flash drives).
 - [ ] Reorganize folder locations for Quick Access.
 - [ ] Remove unnecessary folders like “4D Objects.”
-- [ ] View and revise power plans (use OEM plans if preferable).
+- [ ] View shutdown settings and revise power plans (use OEM plans if preferable).
 - [ ] Adjust sleep durations.
 - [ ] Modify lid-close options.
-- [ ] Readjust Game Mode.
-- [ ] Test graphics settings.
+- [ ] Readjust overclocks and/or undervolts.
+- [ ] Test graphics settings and Game Mode.
 - [ ] Review telemetry settings.
 - [ ] Configure connection leaks (like from VPN/DNS/WebRTC/HTTPS).
-- [ ] Enable BitLocker.
+- [ ] Check BitLocker.
 - [ ] Reserve ~10% of drive space for restore points.
 
 ! Z
