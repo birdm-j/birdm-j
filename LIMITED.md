@@ -7,7 +7,7 @@
 - 😄 Fun fact: 9+10=21
 
 <!---
-! A
+(A)
 
 - [ ] Load necessary drivers.
 - [ ] Partition drives.
@@ -43,7 +43,7 @@
 - [ ] Check BitLocker.
 - [ ] Reserve ~10% of drive space for restore points.
 
-! Z
+(Z)
 
 - [ ] Configure browser settings (such as sync on Long-Term Servicing Channel).
 - [ ] Run wsreset -i and set Microsoft Store preference to “Microsoft apps only.”
@@ -63,5 +63,5 @@
 - [ ] Use application-driven EQs and filters.
 - [ ] Install and configure VM software if need be (Hyper-V, Bluestacks, Oracle VM VirtualBox).
 
-Interconnectivity
+Unlimited
 --->
