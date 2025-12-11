@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ...
+- 👋 Hi, I’m …
 - 📫 I’m interested in 0.25
 - 👀 I’m currently learning 0.5
 - 🌱 I’m looking to collaborate on 0.75
