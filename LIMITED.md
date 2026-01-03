@@ -63,5 +63,5 @@
 - [ ] Use application-driven EQs and filters.
 - [ ] Install and configure VM software if need be (Hyper-V, Bluestacks, Oracle VM VirtualBox).
 
-unlimited
+Unlimited
 --->
